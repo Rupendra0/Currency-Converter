@@ -4,11 +4,16 @@
 }
 
 body {
+    
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: grey
+  background-color: grey;
+  background-image: url('wood-1759566.jpg'); /* Add this line */
+  background-size: cover;                  /* Optional: cover the whole body */
+  background-repeat: no-repeat;            /* Optional: prevent repeating */
+  background-position: center;             /* Optional: center the image */
 }
 
 .container {
