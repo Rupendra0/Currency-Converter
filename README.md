@@ -5,7 +5,7 @@ A simple web-based currency converter that allows users to convert between diffe
 ## Features
 
 - Convert between multiple currencies
-- Real-time exchange rates via [@fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api)
+- Real-time exchange rates
 - Country flag display for selected currencies
 - Responsive and clean UI
 
